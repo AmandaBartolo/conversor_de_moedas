@@ -1,6 +1,6 @@
 # Conversor de moedas
  Conversor de moedas realizado usando HTML, CSS e JavaScript durante a Imersão Dev da Alura. 
- Esse conversor é feito de outras moedas ( ) para o real. 
+ Esse conversor é feito do real para outras moedas (dólar, euro, libra, iene e bitcoin). 
 
 ![Conversor de moeda - Mobile](https://user-images.githubusercontent.com/101134812/161326365-cf47a76e-d331-4de2-b014-ee27f1a3d1a3.png)
 ![Conversor de moeda - pc](https://user-images.githubusercontent.com/101134812/161326370-9b2c713f-b24b-4d91-aeb2-1a96904a27d0.png)
