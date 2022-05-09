@@ -15,6 +15,9 @@
 # O projeto
 Nesse projeto o usuário coloca o valor em real que deseja converter para outras moedas, podendo optar entre dólar, euro, libra, iene e bitcoin.
 
+# Link do projeto
+https://amandabartolo.github.io/conversor_de_moedas/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
